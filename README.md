@@ -1,0 +1,2 @@
+# Wingo2
+Bot
